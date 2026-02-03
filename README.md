@@ -12,8 +12,6 @@ The code supports studies of **force–extension behavior, stiffness, secondary-
 changes, and viscoelastic modeling**, and is designed to accompany published work on
 fibrin molecular mechanics.
 
-**Repository:** Fibrin-Mechanics  
-**GitHub:** https://github.com/mtarekmohamed/Fibrin-Mechanics
 
 ---
 
@@ -49,11 +47,6 @@ The scripts in this repository enable:
 Together, these analyses connect **local molecular deformation mechanisms** to
 **effective mechanical response**.
 
----
-
-## Repository Structure
-
-Large trajectories and raw simulation outputs are intentionally **not included**.
 
 ---
 
